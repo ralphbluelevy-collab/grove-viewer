@@ -1,0 +1,46 @@
+{
+  "revision": 25,
+  "model_sha256": "a69bbf744463ae361827cdb2983cd5e1e30cd019fe6d6b2133276c754972deb0",
+  "views": [
+    {
+      "file": "v25-52-review.png",
+      "title": "Front reception",
+      "sha256": "e7ac56a24b47a8c89988997aefc6c29d8b7d97f5bcf1d054c0f6ccc7b2145202",
+      "bytes": 2202270,
+      "width": 1400,
+      "height": 950,
+      "inspected": true,
+      "note": "Connected portico, recessed upper block, glazed entrance and ivy-covered low wings; old floating roof pieces removed."
+    },
+    {
+      "file": "v25-53-review.png",
+      "title": "Amber entrance",
+      "sha256": "48e441a83de339c05cc1ae20258aa58132692919c0147a1348d4e9161b078d43",
+      "bytes": 1860412,
+      "width": 1400,
+      "height": 950,
+      "inspected": true,
+      "note": "Revised capitals and lettering accepted by user; glass and vestibule depth inspected."
+    },
+    {
+      "file": "v25-55-review.png",
+      "title": "Reception east colonnade",
+      "sha256": "cfeaff7021100d377630d3a984c5c6f81ad70c6e1f56c00992a4d6e3190258be",
+      "bytes": 2179121,
+      "width": 1400,
+      "height": 950,
+      "inspected": true,
+      "note": "Three open bays, joined cornice and closed low-wing end wall inspected."
+    },
+    {
+      "file": "v25-56-review.png",
+      "title": "Reception west colonnade",
+      "sha256": "95914c1f82e864008e828f035619459a2150b51ca823b08d98bd50af62f6e556",
+      "bytes": 2208801,
+      "width": 1400,
+      "height": 950,
+      "inspected": true,
+      "note": "Open bays and junction with the modern wing inspected; obscured joins remain interpreted."
+    }
+  ]
+}

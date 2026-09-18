@@ -1,0 +1,51 @@
+{
+  "revision": 28,
+  "model_sha256": "c63056ee19453a0dc2983d6f8fea3421352f7db6fdd31a37b22add4196e90816",
+  "views": [
+    {
+      "file": "v28-60-review.png",
+      "title": "Correct location: Stables courtyard above, Sequoia below",
+      "sha256": "c124b047b50b2d5d841a31b6099b0f943c7063bb86cbd79a5039ef334be6b72b",
+      "bytes": 2308076,
+      "width": 1400,
+      "height": 1000,
+      "inspected": true
+    },
+    {
+      "file": "v28-61-review.png",
+      "title": "Reception: closed wall, brick inset windows and left-facing bow",
+      "sha256": "e7367ed19512ab0bd0dff17052f63e55e58c28bf0ddc160df9cff9a19c6410d1",
+      "bytes": 2307339,
+      "width": 1400,
+      "height": 1000,
+      "inspected": true
+    },
+    {
+      "file": "v28-56-review.png",
+      "title": "Reception return from ground level",
+      "sha256": "75794ce083021394f7a0fd2db46be0947564010bfd5f25dea1d5a339be94bb8a",
+      "bytes": 2252569,
+      "width": 1400,
+      "height": 1000,
+      "inspected": true
+    },
+    {
+      "file": "v28-57-review.png",
+      "title": "Sequoia garden and sunken entrance",
+      "sha256": "5f51b26b809eff4fca316aa7f0eda9b30283a8e9e4df5a8c98f5f42d55f70a3a",
+      "bytes": 2195745,
+      "width": 1400,
+      "height": 1000,
+      "inspected": true
+    },
+    {
+      "file": "v28-58-review.png",
+      "title": "Sequoia revolving glass door",
+      "sha256": "2aace93bd06541f5fb40ba0c451fc5a97d32c122612ac2597d506cde67a585e9",
+      "bytes": 1984282,
+      "width": 1400,
+      "height": 1000,
+      "inspected": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "revision": 26,
+  "model_sha256": "b596b055d5d0f25bd6c474e109d7354aafd31169d8a074da5f350d1437e7f0df",
+  "views": [
+    {
+      "file": "v26-56-review.png",
+      "title": "Right reception return \u2014 corrected curved position",
+      "sha256": "dad2e8c4f008a1137bcf3b2b5195c2d400a97227c0970aba955fd3519da8cb5a",
+      "bytes": 2134046,
+      "width": 1400,
+      "height": 950,
+      "inspected": true
+    },
+    {
+      "file": "v26-52-review.png",
+      "title": "Front reception \u2014 junction check",
+      "sha256": "d85af36f553468fafbb262e82f140bbb62f9d9fecec5d11a08a9c4d2efe4daca",
+      "bytes": 2179932,
+      "width": 1400,
+      "height": 950,
+      "inspected": true
+    }
+  ]
+}

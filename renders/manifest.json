@@ -1,0 +1,112 @@
+{
+  "model": "/Users/ralphlevy/Documents/Codex/2026-09-17/id-like-you-to-make-a/outputs/the-grove-refined-v23.blend",
+  "model_sha256": "9e3d10c6f766572a0a1968b28c968917867af350ce26704a6b69b8106501607a",
+  "rendering_complete": true,
+  "visual_review": "All thirteen images inspected; see V23-VISUAL-QA.json for checks and remaining approximations.",
+  "views": [
+    {
+      "camera": "01 Approved site overview",
+      "title": "Approved site overview",
+      "file": "01-approved-site-overview.png",
+      "seconds": 94.21095609664917,
+      "sha256": "83d230dd236840da26ad849d091019b2ab2c879e55cc09c480a5cfbbe8597958",
+      "bytes": 3284515
+    },
+    {
+      "camera": "43 Mansion and canal",
+      "title": "Mansion and ornamental canal",
+      "file": "43-mansion-and-ornamental-canal.png",
+      "seconds": 129.79966592788696,
+      "sha256": "fc5e69e2bf1feb1579e6758145529e7e4393a46695fd4708d1b22380a8f2cf67",
+      "bytes": 3675462
+    },
+    {
+      "camera": "35 Annex eye level",
+      "title": "Annex garden rooms",
+      "file": "35-annex-garden-rooms.png",
+      "seconds": 99.04017996788025,
+      "sha256": "089af0c67a1e5518e16b726b53432316464208f3a28343ec4bbfbe8b523f4454",
+      "bytes": 3328991
+    },
+    {
+      "camera": "36 Cedar eye level",
+      "title": "Cedar Suite",
+      "file": "36-cedar-suite.png",
+      "seconds": 145.91764092445374,
+      "sha256": "658f411c9dee00caa38bb359502d1c876631ef41b20b3a1d8d595ba4f2816dfc",
+      "bytes": 3298418
+    },
+    {
+      "camera": "41 Stables entrance eye level",
+      "title": "Stables north entrance",
+      "file": "41-stables-north-entrance.png",
+      "seconds": 89.62597322463989,
+      "sha256": "65d1b76c173d51784f0f42e48ece43148d2248086f90f49babeebf1bd5fc9ba8",
+      "bytes": 3148214
+    },
+    {
+      "camera": "50 Stables restaurant entrance",
+      "title": "Stables restaurant entrance",
+      "file": "50-stables-restaurant-entrance.png",
+      "seconds": 89.71042609214783,
+      "sha256": "716e581f085dd9d28f3b6e1f4df7a063e6adafa1d17c3865f4258e3f186c237a",
+      "bytes": 3316051
+    },
+    {
+      "camera": "39 Pool and beach eye level",
+      "title": "Pool and refurbished beach",
+      "file": "39-pool-and-refurbished-beach.png",
+      "seconds": 128.38384294509888,
+      "sha256": "612cc91b27bec640a20489f3909a15be4906a26ba6ada176d5bfa39848a26f79",
+      "bytes": 3104506
+    },
+    {
+      "camera": "16 Beach detail",
+      "title": "Refurbished beach detail",
+      "file": "16-refurbished-beach-detail.png",
+      "seconds": 100.20589113235474,
+      "sha256": "f7d77a8e8b11525dae060efcdb73b20c3faa66ff4a14aaca1b15c433d531f1eb",
+      "bytes": 3465401
+    },
+    {
+      "camera": "51 Cedar garden approach",
+      "title": "Cedar garden approach",
+      "file": "51-cedar-garden-approach.png",
+      "seconds": 169.7326421737671,
+      "sha256": "44345450dbadb6e92d4dae94b0fe1946cc9f30498c8252fd2867d6975bd4f2ca",
+      "bytes": 3215558
+    },
+    {
+      "camera": "40 Walled garden conservatory eye level",
+      "title": "Walled Garden conservatory",
+      "file": "40-walled-garden-conservatory.png",
+      "seconds": 100.41697406768799,
+      "sha256": "9ea88d7ecc4eaa1e0084c9d9d16b36ed5145cc58c95a352e6df6e26a7cb47a3e",
+      "bytes": 3012332
+    },
+    {
+      "camera": "26 Walled garden hedge review",
+      "title": "Walled Garden layout",
+      "file": "26-walled-garden-layout.png",
+      "seconds": 107.89192485809326,
+      "sha256": "aadd5a2cebb937ef073dcea2aa70cb709ad0278ec77f10f74404e16e2412e4b6",
+      "bytes": 3637199
+    },
+    {
+      "camera": "48 Mansion east approach",
+      "title": "Mansion east approach",
+      "file": "48-mansion-east-approach.png",
+      "seconds": 73.17958307266235,
+      "sha256": "38a0e14f40124c3e8f1dfcb11b8d431e500c89e5cf28e55039e04dc213e9bac0",
+      "bytes": 3455355
+    },
+    {
+      "camera": "49 Mansion east doorway",
+      "title": "Mansion east doorway",
+      "file": "49-mansion-east-doorway.png",
+      "seconds": 106.28905296325684,
+      "sha256": "07064741807ba464c46bc60b19b90881021e82589b81eee135adbea1e30bae33",
+      "bytes": 3479886
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "revision": 24,
+  "views": [
+    {
+      "file": "v24-52-entrance.png",
+      "title": "Front reception \u2014 revolving entrance and stone portico",
+      "sha256": "2d1ff8b2e2dcb3fda3a59cde1b1ab7f5a2b8ae8fa854589df3e98a81c6bc4e85",
+      "bytes": 1896064
+    },
+    {
+      "file": "v24-53-entrance.png",
+      "title": "Amber \u2014 glazed entrance and balustraded porch",
+      "sha256": "421d16bca7f1e22d147ad142c20631bc2099b27479cafc08bc763e84753b5ff1",
+      "bytes": 1500248
+    },
+    {
+      "file": "v24-54-entrance.png",
+      "title": "Stables golf \u2014 timber canopy and glazed entrance",
+      "sha256": "90ae6668057e089dcb98803170d1de16f316c001502add8163d82a46fc825b79",
+      "bytes": 1612610
+    }
+  ],
+  "qa": "All three checked; Amber paving overlap removed and re-rendered.",
+  "model_sha256": "a078dff0918a9d7a7d3ba8fc89c364ceaa83f86b0896e100ffd7e2396304bd60"
+}

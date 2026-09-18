@@ -1,0 +1,33 @@
+{
+  "revision": 27,
+  "model_sha256": "a0cd36f153587948e9b44be6180828f7b1a1f6b73a5d937218c75c2682327f37",
+  "views": [
+    {
+      "file": "v27-57-review.png",
+      "title": "Sequoia \u2014 sunken courtyard and upper lawn",
+      "sha256": "b326d6f461f745b7cff449113815193be3a21a2cb3dce410ea82e772af41636d",
+      "bytes": 2234717,
+      "width": 1400,
+      "height": 950,
+      "inspected": true
+    },
+    {
+      "file": "v27-58-review.png",
+      "title": "Sequoia \u2014 revolving glass door and bamboo planters",
+      "sha256": "cf61c4cea2df5083bc26defaec31ce606946e6ac763131ad76b8a59430d967ef",
+      "bytes": 1968153,
+      "width": 1400,
+      "height": 950,
+      "inspected": true
+    },
+    {
+      "file": "v27-59-review.png",
+      "title": "Garden paths \u2014 separated paving and lawn surfaces",
+      "sha256": "e0f0c455ee0a2e0c637533159986c24cc8bd057a29aa0fec7a0b3cefdf97fbeb",
+      "bytes": 2448151,
+      "width": 1400,
+      "height": 950,
+      "inspected": true
+    }
+  ]
+}
